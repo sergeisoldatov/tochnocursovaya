@@ -69,3 +69,4 @@ Python поддерживает интерактивную консоль, в к
 ![image](https://user-images.githubusercontent.com/90445300/150505289-4fa9e34e-9566-457b-9b23-79a076dfc21d.png)
 Классу Participant были присвоены атрибуты points и choice, как указано в первой и третьей строке таблицы.
 Для Game присвоены поля endGame, как указано в четвертой строке. Кроме того, у класса Game есть два участника: participant и secondParticipant.
+это был пройден 2 модуль 4 урок
